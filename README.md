@@ -77,6 +77,44 @@ What evidence is cited in the following text to answer each of these questions? 
 
 * Manuscript Introduction II: Rationale and Specific Aims/Purpose
   * Canvas link: https://utah.instructure.com/courses/1172144/assignments/16285708
+ 
+### Rationale
+
+Prompt: Evaluate the Rationale section of a quality improvement paper. (See 5. Rationale at https://www.squire-statement.org/index.cfm?fuseaction=page.viewPage&pageID=471&nodeID=1)
+
+This section should cover most of the aspects described in the section instructions unless there are elements that are not relevant to this particular problem. I would assess the comprehensiveness of the student's writing and identify any gaps left unaddressed by the student, and assign a grade according to the point rubric accordingly.
+
+```
+How well does the following text discuss each of these elements? What frameworks, models, concepts, or theories are used to explain the problem? What frameworks, models, concepts, or theories were used to develop the intervention? What reasons or assumptions were used to develop the intervention? Why is the intervention expected to work? Describe the framework, model, or theory used to guide the activities of your project? Describe how the framework, model, or theory aligns with and guides the work on the project? Is any relevant literature cited? Is there any evidence this type of intervention may work?
+"[Paste the text you want evaluated here.]"
+```
+
+### Specific Aims
+
+Prompt: Evaluate the Specific Aims section of a quality improvement paper. (See 6. Specific Aims at https://www.squire-statement.org/index.cfm?fuseaction=page.viewPage&pageID=471&nodeID=1)
+
+This section should cover most of the aspects described in the section instructions unless there are elements that are not relevant to this particular problem. I would assess the comprehensiveness of the student's writing and identify any gaps left unaddressed by the student, and assign a grade according to the point rubric accordingly.
+
+```
+How well does the following text discuss each of these elements? What is the purpose of the project? What are the objectives of the project? Do the objectives support the overall purpose? Are the objectives stated in a logical order? Are the project purpose and objectives clearly stated?
+"[Paste the text you want evaluated here.]"
+```
+
+### Evaluate Problem Description and Objectives Alignment
+
+Prompt: This prompt groups stated objectives with described problems.
+
+```
+I'm conducting a healthcare quality improvement project and reporting the results following SQUIRE 2.0 guidelines. Categorize how well the problem description text supports each project objective using the following categories. (available categories are directly supported, indirectly supported, and not supported)  Here are the project objectives: "[paste project objectives text here]" Here is the problem description text: "[paste Problem Description text here]"
+```
+
+### Evaluate Available Knowledge and Objectives Alignment
+
+Prompt: This prompt groups stated objectives with described evidence.
+
+```
+I'm conducting a healthcare quality improvement project. Categorize how well the cited evidence supports each project objective using the following categories. (available categories are directly supported, indirectly supported, and not supported) Here are the project objectives: "[paste project objectives text here]" Here is the Available Knowledge text: "[paste Available Knowledge text here]"
+```
 
 ## Week 8 (Oct 6) - Fall Break
 
