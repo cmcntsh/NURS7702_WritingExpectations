@@ -58,7 +58,7 @@ This section should cover most of the aspects described in the section instructi
 
 ```
 How well does the following text answer each of these questions? Why are you doing this project? What is the problem you’re addressing? Who is affected? When is it a problem? Why does it matter? How does it affect the patient or system? Has a cause been identified? What will happen if this problem is not addressed?
-"[Paste the text you want evaluated here.]"
+"<Paste the text you want evaluated here.>"
 ```
 
 ### Available Knowledge
@@ -69,7 +69,7 @@ This section should cover most of the aspects described in the section instructi
 
 ```
 What evidence is cited in the following text to answer each of these questions? What is currently known about the problem in general, including relevant previous studies? Who is affected by the problem? What are the impacts of the problem? How does the problem affect those individuals? When is it a problem? Why is it a problem or why does the problem matter? What are the costs or the other negative impacts of the problem? How prevalent is the problem or how many people are affected? Are there any existing trends that contribute to the problem? Are probable causes of the problem identified? Are there any formal standards related to this problem? How are the main concepts relevant to the problem defined? Is any supporting literature or evidence cited?
-"[Paste the text you want evaluated here.]"
+"<Paste the text you want evaluated here.>"
 ```
 
 
@@ -86,7 +86,7 @@ This section should cover most of the aspects described in the section instructi
 
 ```
 How well does the following text discuss each of these elements? What frameworks, models, concepts, or theories are used to explain the problem? What frameworks, models, concepts, or theories were used to develop the intervention? What reasons or assumptions were used to develop the intervention? Why is the intervention expected to work? Describe the framework, model, or theory used to guide the activities of your project? Describe how the framework, model, or theory aligns with and guides the work on the project? Is any relevant literature cited? Is there any evidence this type of intervention may work?
-"[Paste the text you want evaluated here.]"
+"<Paste the text you want evaluated here.>"
 ```
 
 ### Specific Aims
@@ -97,7 +97,7 @@ This section should cover most of the aspects described in the section instructi
 
 ```
 How well does the following text discuss each of these elements? What is the purpose of the project? What are the objectives of the project? Do the objectives support the overall purpose? Are the objectives stated in a logical order? Are the project purpose and objectives clearly stated?
-"[Paste the text you want evaluated here.]"
+"<Paste the text you want evaluated here.>"
 ```
 
 ### Evaluate Problem Description and Objectives Alignment
@@ -105,7 +105,7 @@ How well does the following text discuss each of these elements? What is the pur
 Prompt: This prompt groups stated objectives with described problems.
 
 ```
-I'm conducting a healthcare quality improvement project and reporting the results following SQUIRE 2.0 guidelines. Categorize how well the problem description text supports each project objective using the following categories. (available categories are directly supported, indirectly supported, and not supported)  Here are the project objectives: "[paste project objectives text here]" Here is the problem description text: "[paste Problem Description text here]"
+I'm conducting a healthcare quality improvement project and reporting the results following SQUIRE 2.0 guidelines. Categorize how well the problem description text supports each project objective using the following categories. (available categories are directly supported, indirectly supported, and not supported)  Here are the project objectives: "<paste project objectives text here>" Here is the problem description text: "<paste Problem Description text here>"
 ```
 
 ### Evaluate Available Knowledge and Objectives Alignment
@@ -113,7 +113,7 @@ I'm conducting a healthcare quality improvement project and reporting the result
 Prompt: This prompt groups stated objectives with described evidence.
 
 ```
-I'm conducting a healthcare quality improvement project. Categorize how well the cited evidence supports each project objective using the following categories. (available categories are directly supported, indirectly supported, and not supported) Here are the project objectives: "[paste project objectives text here]" Here is the Available Knowledge text: "[paste Available Knowledge text here]"
+I'm conducting a healthcare quality improvement project. Categorize how well the cited evidence supports each project objective using the following categories. (available categories are directly supported, indirectly supported, and not supported) Here are the project objectives: "<paste project objectives text here>" Here is the Available Knowledge text: "<paste Available Knowledge text here>"
 ```
 
 ## Week 8 (Oct 6) - Fall Break
