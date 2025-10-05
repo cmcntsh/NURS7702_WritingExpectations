@@ -74,6 +74,8 @@ Here is a piece of text and a reference list that is supposed to be formatted to
 
 ## Prompts specific to each paper section (split out by week)
 
+These prompts are based on the SQUIRE 2.0 guidelines (https://www.squire-statement.org/index.cfm?fuseaction=page.viewPage&pageID=471&nodeID=1) and the interpretive guidelines highlighted in Canvas. (https://utah.instructure.com/courses/1172144/files/185304977?module_item_id=30179403) You are free to use these prompts or modify them. These prompts are NOT guaranteed to answer every question. You should review the guidance for the scholarly paper provided on Canvas closely and adapt your responses accordingly.
+
 ### Week 1 (Aug 18)
 
 ### Week 2 (Aug 25)
