@@ -134,7 +134,7 @@ Prompt: Evaluate the Rationale section of a quality improvement paper. (See 5. R
 This section should cover most of the aspects described in the section instructions unless there are elements that are not relevant to this particular problem. I would assess the comprehensiveness of the student's writing and identify any gaps left unaddressed by the student, and assign a grade according to the point rubric accordingly.
 
 ```
-How well does the following text discuss each of these elements? What frameworks, models, concepts, or theories are used to explain the problem? What frameworks, models, concepts, or theories were used to develop the intervention? What reasons or assumptions were used to develop the intervention? Why is the intervention expected to work? Describe the framework, model, or theory used to guide the activities of your project? Describe how the framework, model, or theory aligns with and guides the work on the project? Is any relevant literature cited? Is there any evidence this type of intervention may work?
+How well does the following text discuss each of these elements? What frameworks, models, concepts, or theories are used to explain the problem? What frameworks, models, concepts, or theories were used to develop the intervention? What reasons or assumptions were used to develop the intervention? Why is the intervention expected to work? Describe the framework, model, or theory used to guide the activities of your project? Are main concepts of the framework, model, or theory briefly explained? Describe how the framework, model, or theory aligns with and guides the work on the project? Is any relevant literature cited? Is there any evidence this type of intervention may work?
 "<Paste the text you want evaluated here.>"
 ```
 
@@ -171,11 +171,47 @@ I'm conducting a healthcare quality improvement project. Categorize how well the
 
 * Manuscript Methods I: Context and Interventions
   * Canvas link: https://utah.instructure.com/courses/1172144/assignments/16285704
+ 
+#### Context
+
+Prompt: Evaluate the Context section of a quality improvement paper (See 7. Specific Aims at https://www.squire-statement.org/index.cfm?fuseaction=page.viewPage&pageID=471&nodeID=1)
+
+```
+How well does the following text discuss each of these elements? What are the conditions that existed before the project started? What is the setting where the project is taking place (urban/rural, hospital, clinic, other)? What processes were in use before the project started? Is this project part of a larger project? Are there any other initiatives taking place closely related to, or potentially competing with (or supporting), your own? Who are the sponsors of the project? Who are the team members working on the project? Who are the beneficiaries of the project (patients, family, nurses, other clinical staff, NPs, PAs, physicians)? Who will be directly impacted by the project? Who may be indirectly impacted by the project? How does the project impact health equity? Does it address certain social determinants of health (SDoH) or vulnerable/underserved populations? Are there any contextual factors that may impact the success of the project? Is any literature or supporting evidence cited?
+"<Paste the text you want evaluated here.>"
+```
+
+#### Intervention
+
+Prompt: Evaluate the Intervention section of a quality improvement paper (See 8. Specific Aims at https://www.squire-statement.org/index.cfm?fuseaction=page.viewPage&pageID=471&nodeID=1)
+
+```
+How well does the following text discuss each of these elements for each project objective? What is the name of the intervention? What is the rationale or theory behind the intervention? What materials were used for the intervention or training given to those who delivered the intervention? What procedures, activities, or processes were used in the intervention? Who delivered the intervention? What was their expertise or background? Describe the mode of delivery of the intervention. Describe the location of where the intervention was delivered, including any necessary infrastructure. When was the intervention delivered and how often?
+Was the intervention tailored to any specific individuals? If so describe how. Was the intervention modified during the course of the study? If so, describe how. Describe the extent to which the intervention was delivered as planned. How was the improvement/practice change evaluated (pre-, during, post-)? What means were used to evaluate the project (survey, chart review, discussion/interview)? What quantitative data were used to evaluate the project? What qualitative data were used to evaluate the project? How were data collected? What was the frequency data were collected? How was use/uptake of the intervention measured? How were missed opportunities identified? How were rapid cycle changes tracked? How was communication with key stakeholders after implementation tracked? How was feasibility, usability, and satisfaction/acceptability assessed? What are the expected outcomes?
+Here are the project objectives: "<Paste text describing each objective here.>" Here is the section text: "<Paste the text you want evaluated here.>"
+```
 
 ### Week 10 (Oct 27)
 
 * Manuscript Methods II: Measures and Cost
   * Canvas link: https://utah.instructure.com/courses/1172144/assignments/16285714
+
+#### Measures
+
+Prompt: Evaluate the Measures section of a quality improvement paper (See 10. Specific Aims at https://www.squire-statement.org/index.cfm?fuseaction=page.viewPage&pageID=471&nodeID=1)
+
+```
+How well does the following text discuss each of these elements for each project objective? What tools, instruments, or measures are described? Was a new instrument or data collecton tool developed, or was an existing tool used? What are the operational definitions for key concepts? What is the reliability and validity of the tools, instruments, or measures? How many questions were on the instrument? What was the format of the questions (True/False, Likert scale, numerical scale)? How were the processes used in the project measured? What is the approach for assessing contextual elements that impact the success or failure of the intervention? What methods to assess the completeness and accuracy of the data are described?
+Here are the project objectives: "<Paste text describing each objective here.>" Here is the section text: "<Paste the text you want evaluated here.>"
+```
+
+#### Cost
+
+Prompt: Evaluate the costs associated with a project (This is not addressed as explicitely in the SQUIRE guidelines. Follow the prompts for this section included here closely for this paper.)
+
+```
+How well does the following text discuss each of these elements? How well is the cost-benefit discussed? Is the change worth the cost? What were direct costs (supplies, staff time, training)? What were indirect costs (lost productivity, overhead)? How do costs of new equipment and supplies compare with costs of existing equipment and supplies? How well were costs associated with feasibility discussed? Did the project provide sufficient value to address the problem? Is the project viable and likely to succeed? Are there resources to support continuation of the project? Do the benefits outweigh the costs/risk? Is there an intent to continue to use the project in the future? How well were costs associated with usability discussed? How usable is the intervention/project? What is the success rate? Can users perform the intervention? Is the time required to perform the intervention managable for users? What is the error rate? How much of the intervention were users able to complete? What measures were used to identify if the intervention was not working? How were completion rates for instruements measured? Are there steps in place to make sure data for the intervention and data to evaluate the intervention are entered correctly? How well were costs associated with satisfaction/accessability discussed? Were users satisfied with the intervention? Did users request that changes be made to the intervention? If you developed a survey or questionnaire, how did you verify it (content experts, clinicians, families)? Did you conduct stakeholder interviews to address the satisfaction of the project or intervention?
+```
 
 ### Week 11 (Nov 3)
 
@@ -184,10 +220,30 @@ I'm conducting a healthcare quality improvement project. Categorize how well the
 * Manuscript Methods III: Analysis and Ethical Considerations
   * Canvas link: https://utah.instructure.com/courses/1172144/assignments/16285698
 
+#### Analysis
+
+Prompt: Evaluate the Context section of a quality improvement paper (See 11. Specific Aims at https://www.squire-statement.org/index.cfm?fuseaction=page.viewPage&pageID=471&nodeID=1)
+
+```
+How well does the following text discuss each of these elements for each project objective? What qualitative methods are described to draw inferences from the data (open-ended questions, discussion groups, feedback, interviews)? What quantitative methods are described to draw inferences from the data? What statistical methods were used to examine data (descriptive statistics, frequency and percents, means and standard deviations, inferential statistics, specific inferential tests used)?
+Here are the project objectives: "<Paste text describing each objective here.>" Here is the section text: "<Paste the text you want evaluated here.>"
+```
+
+#### Ethical Considerations
+
+Prompt: Evaluate the Context section of a quality improvement paper (See 12. Specific Aims at https://www.squire-statement.org/index.cfm?fuseaction=page.viewPage&pageID=471&nodeID=1)
+
+```
+How well does the following text discuss each of these elements? What ethical review process is described? What conflicts of interest are described? What are the ethical aspects particular to this project? Is any literature or evidence cited?
+"<Paste the text you want evaluated here.>"
+```
+
 ### Week 13 (Nov 17)
 
 * Manuscript Refinement of Introduction and Methods Sections
   * Canvas link: https://utah.instructure.com/courses/1172144/assignments/16316899
+ 
+See prompts for relevant paper sections above.
 
 ### Week 14 (Nov 24)
 
