@@ -114,6 +114,12 @@ You are an expert in healthcare quality improvement. You are helping to critique
 
 #### Available Knowledge
 
+Prompt: Get ideas about what should be addressed in the Available Knowledge section based on a PICO question
+
+```
+I'm conducting a healthcare quality improvement project and writing an article for a quality improvement journal that follows the SQUIRE 2.0 guidelines. I'm trying to answer this PICO question: "<Paste PICO question here." What information related to this PICO question should I include in the 4. Available Knowledge section? Which foundational concepts related to the PICO question should I define for the reader using authoritative sources in that section?
+```
+
 Prompt: Evaluate the Available Knowledge section of a quality improvement paper. (See 4. Available Knowledge at https://www.squire-statement.org/index.cfm?fuseaction=page.viewPage&pageID=471&nodeID=1)
 
 This section should cover most of the aspects described in the section instructions unless there are elements that are not relevant to this particular problem or information that is simply not available at this point. I would assess the comprehensiveness of the student's writing and identify any gaps left unaddressed by the student, and assign a grade according to the point rubric accordingly.
