@@ -36,6 +36,26 @@ You are an expert in Evidence-Based Practice (Johns Hopkins Evidence-Based Pract
 
 ```
 
+* Upload the summary document
+
+Prompt: Synthesize the recommendations
+
+```
+Please synthesize the recommendations in this document. For each item in the synthesis, please indicate which publications support the item.
+```
+
+Prompt: Synthesize the background information
+
+```
+Please synthesize the background information worth considering and also indicate the sources for the information.
+```
+
+Prompt: Note areas of disagreement
+
+```
+Please note any areas of disagreement between the publications.
+```
+
 
 ## AI Prompts for Evaluating Writing in General (Use these on all paper sections.)
 
